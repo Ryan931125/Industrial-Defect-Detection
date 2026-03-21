@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Runtime artifacts
+*.log
+/results/
+test_output/
+
+# Local caches and models
+hf_cache/
+.cache/
+
+# Data privacy
+data/private/
+**/Image_description*.json
+!data/examples/image_description_example.json
+
+# Large or private datasets
+C15_1@B1190134@C@DS040018X-R200-B/

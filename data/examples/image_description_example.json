@@ -1,0 +1,23 @@
+[
+  {
+    "Image ID": "SAMPLE_R100_1",
+    "Image Category": "train",
+    "Image Filename": "example_001.jpg",
+    "Image Path": "data/examples/images/example_001.jpg",
+    "Mask Image Path": "data/examples/masks/example_001_mask.png",
+    "XML (Component Info) Path": "data/examples/metadata/example_001.xml",
+    "Info JSON Path": "data/examples/metadata/info.json",
+    "Image Defect Orientations": [],
+    "Defect Descriptions": "No Defect",
+    "Image Components descriptions": [
+      "The main component, a Resistor, is in the center.",
+      "The Component Name is R100_1.",
+      "The Component Type is R0402.",
+      "The Status is OK.",
+      "Other 1 component is on the top-left; 1 component is on the top-right.",
+      "The components are mounted on the Top of the PCB.",
+      "The PCB contains 3 electronic components.",
+      "The Pin Count is 0."
+    ]
+  }
+]
