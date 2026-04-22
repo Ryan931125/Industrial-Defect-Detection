@@ -7,6 +7,57 @@ import seaborn as sns
 from matplotlib.container import BarContainer
 
 
+def model_slug(model_name):
+    return model_name.lower().replace(" ", "_").replace("-", "_").replace(".", "")
+
+
+def normalize_binary_label(value):
+    if pd.isna(value):
+        return None
+
+    text = str(value).strip().lower()
+    if not text:
+        return None
+
+    if text in {"yes", "y", "true", "1"}:
+        return "Yes"
+    if text in {"no", "n", "false", "0"}:
+        return "No"
+
+    if "no defect" in text:
+        return "No"
+    if "normal" in text:
+        return "No"
+    if "defect" in text:
+        return "Yes"
+
+    if "yes" in text:
+        return "Yes"
+    if "no" in text:
+        return "No"
+
+    return None
+
+
+def save_confusion_matrix_plot(cm, output_path, title):
+    total = cm.to_numpy().sum()
+    if total == 0:
+        return
+
+    row_sums = cm.sum(axis=1).replace(0, 1)
+    row_pct = cm.div(row_sums, axis=0)
+    annot = cm.astype(int).astype(str) + "\n" + (row_pct * 100).round(1).astype(str) + "%"
+
+    plt.figure(figsize=(5.2, 4.5))
+    ax = sns.heatmap(cm, annot=annot, fmt="", cmap="Blues", cbar=False, linewidths=0.5, linecolor="white")
+    ax.set_xlabel("Predicted")
+    ax.set_ylabel("Ground Truth")
+    ax.set_title(title)
+    plt.tight_layout()
+    plt.savefig(output_path, dpi=300)
+    plt.close()
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--source_root", type=str, required=True, help="Folder containing 03/05/07/09 split outputs")
@@ -26,6 +77,8 @@ def main():
 
     rows = []
     cat_rows = []
+    labels = ["No", "Yes"]
+    defect_rows_by_model = {name: [] for name in model_files}
 
     for split in splits:
         for model_name, filename in model_files.items():
@@ -53,6 +106,27 @@ def main():
                         "acc": float(row["Correct"]),
                     }
                 )
+
+            if {"Category", "Ground Truth", "Prediction"}.issubset(df.columns):
+                defect_df = df[df["Category"] == "Defect Detection"].copy()
+                if not defect_df.empty:
+                    defect_df["gt_label"] = defect_df["Ground Truth"].apply(normalize_binary_label)
+                    defect_df["pred_label"] = defect_df["Prediction"].apply(normalize_binary_label)
+                    defect_df = defect_df.dropna(subset=["gt_label", "pred_label"])
+
+                    if not defect_df.empty:
+                        cm = pd.crosstab(defect_df["gt_label"], defect_df["pred_label"])
+                        cm = cm.reindex(index=labels, columns=labels, fill_value=0)
+
+                        split_slug = split
+                        model_name_slug = model_slug(model_name)
+                        cm.to_csv(output_dir / f"confusion_matrix_defect_{split_slug}_{model_name_slug}.csv")
+                        save_confusion_matrix_plot(
+                            cm,
+                            output_dir / f"confusion_matrix_defect_{split_slug}_{model_name_slug}.png",
+                            f"Defect Detection Confusion Matrix\nSplit {split} - {model_name}",
+                        )
+                        defect_rows_by_model[model_name].append(defect_df[["gt_label", "pred_label"]])
 
     summary_by_split = pd.DataFrame(rows)
     category_by_split = pd.DataFrame(cat_rows)
@@ -98,6 +172,46 @@ def main():
                 ax.bar_label(container, fmt="%.3f", padding=3)
         plt.tight_layout()
         plt.savefig(output_dir / "overall_model_comparison.png", dpi=300)
+        plt.close()
+
+    if not summary_by_split.empty:
+        pivot_split = summary_by_split.pivot(index="split", columns="model", values="overall_acc")
+        pivot_split = pivot_split.reindex(index=splits)
+        plt.figure(figsize=(7, 4.2))
+        ax = sns.heatmap(pivot_split, annot=True, fmt=".3f", cmap="YlGnBu", vmin=0, vmax=1, linewidths=0.5)
+        ax.set_title("Accuracy Heatmap by Defect Split")
+        ax.set_xlabel("Model")
+        ax.set_ylabel("Split")
+        plt.tight_layout()
+        plt.savefig(output_dir / "heatmap_by_split.png", dpi=300)
+        plt.close()
+
+    if not summary_by_category.empty:
+        pivot_cat = summary_by_category.pivot(index="category", columns="model", values="acc")
+        plt.figure(figsize=(7.2, 4.8))
+        ax = sns.heatmap(pivot_cat, annot=True, fmt=".3f", cmap="YlOrRd", vmin=0, vmax=1, linewidths=0.5)
+        ax.set_title("Accuracy Heatmap by Question Category")
+        ax.set_xlabel("Model")
+        ax.set_ylabel("Category")
+        plt.tight_layout()
+        plt.savefig(output_dir / "heatmap_by_category.png", dpi=300)
+        plt.close()
+
+    for model_name, parts in defect_rows_by_model.items():
+        if not parts:
+            continue
+
+        combined = pd.concat(parts, ignore_index=True)
+        cm = pd.crosstab(combined["gt_label"], combined["pred_label"])
+        cm = cm.reindex(index=labels, columns=labels, fill_value=0)
+
+        model_name_slug = model_slug(model_name)
+        cm.to_csv(output_dir / f"confusion_matrix_defect_all_{model_name_slug}.csv")
+        save_confusion_matrix_plot(
+            cm,
+            output_dir / f"confusion_matrix_defect_all_{model_name_slug}.png",
+            f"Defect Detection Confusion Matrix\nAll Splits - {model_name}",
+        )
 
 
 if __name__ == "__main__":
