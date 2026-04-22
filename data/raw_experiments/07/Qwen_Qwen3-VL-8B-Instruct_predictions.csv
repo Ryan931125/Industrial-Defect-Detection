@@ -1,0 +1,1193 @@
+Image ID,Category,Question,Ground Truth,Prediction,Correct
+C452_2@B1110050@C@DS00777E-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C452_2@B1110050@C@DS00777E-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C452_2@B1110050@C@DS00777E-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,14,False
+C452_2@B1110050@C@DS00777E-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C452_2@B1110050@C@DS00777E-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C420_1@B1190091@C@DS009442-R203-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C420_1@B1190091@C@DS009442-R203-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C420_1@B1190091@C@DS009442-R203-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C420_1@B1190091@C@DS009442-R203-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C420_1@B1190091@C@DS009442-R203-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C1_2@B1190150@C@DS006453-R211-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C1_2@B1190150@C@DS006453-R211-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C1_2@B1190150@C@DS006453-R211-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C1_2@B1190150@C@DS006453-R211-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C1_2@B1190150@C@DS006453-R211-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C1_2@B1190150@C@DS006453-R211-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C1_2@B1190150@C@DS006453-R211-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C1_2@B1190150@C@DS006453-R211-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,5,False
+C1_2@B1190150@C@DS006453-R211-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C1_2@B1190150@C@DS006453-R211-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C1_2@B1190150@C@DS006453-R211-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C1_2@B1190150@C@DS006453-R211-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C1_2@B1190150@C@DS006453-R211-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C1_2@B1190150@C@DS006453-R211-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C1_2@B1190150@C@DS006453-R211-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,6,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,6,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,6,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,6,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,7,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R_LED1_1@07G015700750@OTHER@DS01450U-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C409_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C409_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C409_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C409_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R654_1@B089005Y@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R654_1@B089005Y@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R654_1@B089005Y@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,7,False
+R654_1@B089005Y@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R654_1@B089005Y@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R654_1@B089005Y@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R654_1@B089005Y@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R654_1@B089005Y@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,7,False
+R654_1@B089005Y@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R654_1@B089005Y@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R654_1@B089005Y@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R654_1@B089005Y@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R654_1@B089005Y@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,6,False
+R654_1@B089005Y@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R654_1@B089005Y@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R655_1@B0882500@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,No,False
+R655_1@B0882500@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R655_1@B0882500@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,5,False
+R655_1@B0882500@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R655_1@B0882500@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R655_1@B0882500@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+R655_1@B0882500@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R655_1@B0882500@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,6,True
+R655_1@B0882500@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R655_1@B0882500@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R725_1@B0840020@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R725_1@B0840020@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R725_1@B0840020@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R725_1@B0840020@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R725_1@B0840020@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R725_1@B0840020@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R725_1@B0840020@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R725_1@B0840020@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R725_1@B0840020@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R725_1@B0840020@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R725_1@B0840020@R@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R725_1@B0840020@R@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R725_1@B0840020@R@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R725_1@B0840020@R@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C890_1@B1190003@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C890_1@B1190003@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C890_1@B1190003@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,4,False
+C890_1@B1190003@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C890_1@B1190003@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C890_1@B1190003@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C890_1@B1190003@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C890_1@B1190003@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,4,False
+C890_1@B1190003@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C890_1@B1190003@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C153_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C151_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C151_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C151_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,3,False
+C151_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C151_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C151_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C151_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C151_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C151_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C151_1@B1190091@C@DS006593-Z201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C151_1@B1190091@C@DS006593-Z201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C151_1@B1190091@C@DS006593-Z201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1190091@C@DS006593-Z201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1190091@C@DS006593-Z201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C156_1@B1191210@C@DS000895-R201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C156_1@B1191210@C@DS000895-R201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C156_1@B1191210@C@DS000895-R201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+C156_1@B1191210@C@DS000895-R201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C156_1@B1191210@C@DS000895-R201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C156_1@B1191210@C@DS000895-R201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C156_1@B1191210@C@DS000895-R201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C156_1@B1191210@C@DS000895-R201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+C156_1@B1191210@C@DS000895-R201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C156_1@B1191210@C@DS000895-R201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C156_1@B1191210@C@DS000895-R201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C156_1@B1191210@C@DS000895-R201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+C156_1@B1191210@C@DS000895-R201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C156_1@B1191210@C@DS000895-R201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C195_1@B1190091@C@DS012621-R101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C195_1@B1190091@C@DS012621-R101-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C195_1@B1190091@C@DS012621-R101-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,10,False
+C195_1@B1190091@C@DS012621-R101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C195_1@B1190091@C@DS012621-R101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R429_1@B0830042@R@DS013131-R201-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R429_1@B0830042@R@DS013131-R201-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R429_1@B0830042@R@DS013131-R201-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+R429_1@B0830042@R@DS013131-R201-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R429_1@B0830042@R@DS013131-R201-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R1080_1@B0790090@R@DS004049-R003T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R1080_1@B0790090@R@DS004049-R003T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R1080_1@B0790090@R@DS004049-R003T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R1080_1@B0790090@R@DS004049-R003T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R1080_1@B0790090@R@DS004049-R003T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R1080_1@B0790090@R@DS004049-R003T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R1080_1@B0790090@R@DS004049-R003T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R1080_1@B0790090@R@DS004049-R003T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,7,False
+R1080_1@B0790090@R@DS004049-R003T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R1080_1@B0790090@R@DS004049-R003T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R1080_1@B0790090@R@DS004049-R003T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R1080_1@B0790090@R@DS004049-R003T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R1080_1@B0790090@R@DS004049-R003T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R1080_1@B0790090@R@DS004049-R003T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R1080_1@B0790090@R@DS004049-R003T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R1080_1@B0790090@R@DS004049-R003T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R1080_1@B0790090@R@DS004049-R003T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R1080_1@B0790090@R@DS004049-R003T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+R1080_1@B0790090@R@DS004049-R003T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R1080_1@B0790090@R@DS004049-R003T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C8_1@B1190670@C@DS00169A-R109-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C8_1@B1190670@C@DS00169A-R109-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C8_1@B1190670@C@DS00169A-R109-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,1,False
+C8_1@B1190670@C@DS00169A-R109-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C8_1@B1190670@C@DS00169A-R109-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C8_1@B1190670@C@DS00169A-R109-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C8_1@B1190670@C@DS00169A-R109-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C8_1@B1190670@C@DS00169A-R109-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,1,False
+C8_1@B1190670@C@DS00169A-R109-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C8_1@B1190670@C@DS00169A-R109-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C8_1@B1190670@C@DS00169A-R109-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C8_1@B1190670@C@DS00169A-R109-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C8_1@B1190670@C@DS00169A-R109-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,1,False
+C8_1@B1190670@C@DS00169A-R109-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C8_1@B1190670@C@DS00169A-R109-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C8_1@B1190670@C@DS00169A-R109-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C8_1@B1190670@C@DS00169A-R109-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C8_1@B1190670@C@DS00169A-R109-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,1,False
+C8_1@B1190670@C@DS00169A-R109-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C8_1@B1190670@C@DS00169A-R109-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C570_1@B1190252@C@DS006180-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C570_1@B1190252@C@DS006180-R000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C570_1@B1190252@C@DS006180-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,0,False
+C570_1@B1190252@C@DS006180-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C570_1@B1190252@C@DS006180-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,14,False
+C570_1@B1190252@C@DS006180-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C570_1@B1190252@C@DS006180-R000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C570_1@B1190252@C@DS006180-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,6,False
+C570_1@B1190252@C@DS006180-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C570_1@B1190252@C@DS006180-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R676_1@B0410740@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R676_1@B0410740@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,C,True
+R676_1@B0410740@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+R676_1@B0410740@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R676_1@B0410740@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R676_1@B0410740@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R676_1@B0410740@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R676_1@B0410740@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+R676_1@B0410740@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R676_1@B0410740@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R676_1@B0410740@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R676_1@B0410740@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R676_1@B0410740@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+R676_1@B0410740@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R676_1@B0410740@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R676_1@B0410740@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R676_1@B0410740@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R676_1@B0410740@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,5,False
+R676_1@B0410740@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R676_1@B0410740@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C347_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+C347_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C347_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C347_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+C347_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C347_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C347_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C347_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C355_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C355_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,6,True
+C355_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C355_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C358_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C358_1@B1190091@C@DS006180-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C358_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C358_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C358_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C358_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C358_1@B1190091@C@DS006180-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C358_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C358_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C358_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C347_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+C347_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C347_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C347_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C347_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C347_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C347_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C347_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C355_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C355_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,6,True
+C355_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C355_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C358_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C358_1@B1190091@C@DS006180-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C358_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C358_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C358_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C358_1@B1190091@C@DS006180-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C358_1@B1190091@C@DS006180-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C358_1@B1190091@C@DS006180-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C358_1@B1190091@C@DS006180-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C358_1@B1190091@C@DS006180-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,B,E,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,5,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,B,B,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,6,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,B,B,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,7,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,B,B,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,5,False
+C411_2@1130Z000@MLD@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_2@1130Z000@MLD@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C411_1@1130Z000@MLD@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C411_1@1130Z000@MLD@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,B,B,True
+C411_1@1130Z000@MLD@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,7,True
+C411_1@1130Z000@MLD@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_1@1130Z000@MLD@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C480_1@1119D011@C@DS005175-Z007-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C480_1@1119D011@C@DS005175-Z007-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C480_1@1119D011@C@DS005175-Z007-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C480_1@1119D011@C@DS005175-Z007-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R305_1@B0840290@R@DS013532-R402-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R305_1@B0840290@R@DS013532-R402-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R305_1@B0840290@R@DS013532-R402-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,3,False
+R305_1@B0840290@R@DS013532-R402-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R305_1@B0840290@R@DS013532-R402-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R288_1@B0831600@R@DS009084-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R288_1@B0831600@R@DS009084-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R288_1@B0831600@R@DS009084-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,14,False
+R288_1@B0831600@R@DS009084-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R288_1@B0831600@R@DS009084-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R288_1@B0831600@R@DS009084-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R288_1@B0831600@R@DS009084-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R288_1@B0831600@R@DS009084-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,12,False
+R288_1@B0831600@R@DS009084-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R288_1@B0831600@R@DS009084-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R288_1@B0831600@R@DS009084-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R288_1@B0831600@R@DS009084-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R288_1@B0831600@R@DS009084-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,14,False
+R288_1@B0831600@R@DS009084-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R288_1@B0831600@R@DS009084-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R288_1@B0831600@R@DS009084-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R288_1@B0831600@R@DS009084-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R288_1@B0831600@R@DS009084-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,16,False
+R288_1@B0831600@R@DS009084-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R288_1@B0831600@R@DS009084-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C592_1@B1190252@C@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C592_1@B1190252@C@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C592_1@B1190252@C@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C592_1@B1190252@C@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C592_1@B1190252@C@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C592_1@B1190252@C@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C592_1@B1190252@C@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C592_1@B1190252@C@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C592_1@B1190252@C@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C592_1@B1190252@C@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C592_1@B1190252@C@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C592_1@B1190252@C@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C592_1@B1190252@C@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C592_1@B1190252@C@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C592_1@B1190252@C@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C592_1@B1190252@C@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C592_1@B1190252@C@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C592_1@B1190252@C@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C592_1@B1190252@C@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C592_1@B1190252@C@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R340_1@B0410650@R@DS012350-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R340_1@B0410650@R@DS012350-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R340_1@B0410650@R@DS012350-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R340_1@B0410650@R@DS012350-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R340_1@B0410650@R@DS012350-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R340_1@B0410650@R@DS012350-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R340_1@B0410650@R@DS012350-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R340_1@B0410650@R@DS012350-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R340_1@B0410650@R@DS012350-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R340_1@B0410650@R@DS012350-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R340_1@B0410650@R@DS012350-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R340_1@B0410650@R@DS012350-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R340_1@B0410650@R@DS012350-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+R340_1@B0410650@R@DS012350-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R340_1@B0410650@R@DS012350-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R340_1@B0410650@R@DS012350-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R340_1@B0410650@R@DS012350-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R340_1@B0410650@R@DS012350-R100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,4,False
+R340_1@B0410650@R@DS012350-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R340_1@B0410650@R@DS012350-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C52_1@B1110160@C@DS014811-Z100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+C52_1@B1110160@C@DS014811-Z100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C52_1@B1110160@C@DS014811-Z100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C52_1@B1110160@C@DS014811-Z100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+C52_1@B1110160@C@DS014811-Z100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C52_1@B1110160@C@DS014811-Z100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+C52_1@B1110160@C@DS014811-Z100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+C52_1@B1110160@C@DS014811-Z100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C52_1@B1110160@C@DS014811-Z100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,14,False
+C52_1@B1110160@C@DS014811-Z100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+C52_1@B1110160@C@DS014811-Z100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C52_1@B1110160@C@DS014811-Z100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,24,False
+C52_1@B1110160@C@DS014811-Z100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C52_1@B1110160@C@DS014811-Z100-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+C52_1@B1110160@C@DS014811-Z100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C52_1@B1110160@C@DS014811-Z100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+EC24_1@B1300212@MLD@DS00796D-R302-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC24_1@B1300212@MLD@DS00796D-R302-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+EC24_1@B1300212@MLD@DS00796D-R302-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC24_1@B1300212@MLD@DS00796D-R302-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+EC24_1@B1300212@MLD@DS00796D-R302-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC24_1@B1300212@MLD@DS00796D-R302-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+EC24_1@B1300212@MLD@DS00796D-R302-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC24_1@B1300212@MLD@DS00796D-R302-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+EC24_1@B1300212@MLD@DS00796D-R302-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC24_1@B1300212@MLD@DS00796D-R302-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+EC24_1@B1300212@MLD@DS00796D-R302-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC24_1@B1300212@MLD@DS00796D-R302-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+L14_2@B4920230@C@DS006457-R212-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+L14_2@B4920230@C@DS006457-R212-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+L14_2@B4920230@C@DS006457-R212-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+L14_2@B4920230@C@DS006457-R212-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+L14_2@B4920230@C@DS006457-R212-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+L14_2@B4920230@C@DS006457-R212-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+L14_2@B4920230@C@DS006457-R212-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+L14_2@B4920230@C@DS006457-R212-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+L14_2@B4920230@C@DS006457-R212-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+L14_2@B4920230@C@DS006457-R212-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+L14_2@B4920230@C@DS006457-R212-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+L14_2@B4920230@C@DS006457-R212-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+L14_2@B4920230@C@DS006457-R212-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+L14_2@B4920230@C@DS006457-R212-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+L14_2@B4920230@C@DS006457-R212-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+L14_2@B4920230@C@DS006457-R212-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+L14_2@B4920230@C@DS006457-R212-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+L14_2@B4920230@C@DS006457-R212-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+L14_2@B4920230@C@DS006457-R212-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+L14_2@B4920230@C@DS006457-R212-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C100_1@B1190003@C@DS001698-R108-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C100_1@B1190003@C@DS001698-R108-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C100_1@B1190003@C@DS001698-R108-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C100_1@B1190003@C@DS001698-R108-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C100_1@B1190003@C@DS001698-R108-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,E,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,5,True
+R3_1@B0790150@R0201@DS011140-Z101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R3_1@B0790150@R0201@DS011140-Z101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,E,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,3,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R3_1@B0790150@R0201@DS011140-Z101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,B,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+R3_1@B0790150@R0201@DS011140-Z101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R3_1@B0790150@R0201@DS011140-Z101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R64_1@B0790030@R0201@DS011140-Z101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R64_1@B0790030@R0201@DS011140-Z101-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,E,False
+R64_1@B0790030@R0201@DS011140-Z101-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,11,False
+R64_1@B0790030@R0201@DS011140-Z101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R64_1@B0790030@R0201@DS011140-Z101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R17_1@B0800000@R0201@DS011140-Z101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R17_1@B0800000@R0201@DS011140-Z101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R17_1@B0800000@R0201@DS011140-Z101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R109_1@B0800030@R0201@DS011140-Z101-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R109_1@B0800030@R0201@DS011140-Z101-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,D,True
+R109_1@B0800030@R0201@DS011140-Z101-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,12,False
+R109_1@B0800030@R0201@DS011140-Z101-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R109_1@B0800030@R0201@DS011140-Z101-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,14,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,E,C,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,2,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC4_2@B1300100@SOD@DS013762-R401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,E,B,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC4_2@B1300100@SOD@DS013762-R401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,E,B,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC4_2@B1300100@SOD@DS013762-R401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,E,B,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+EC4_2@B1300100@SOD@DS013762-R401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+EC4_2@B1300100@SOD@DS013762-R401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R443_1@B0790082@R0201@DS003857-R308-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R443_1@B0790082@R0201@DS003857-R308-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,B,False
+R443_1@B0790082@R0201@DS003857-R308-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,7,True
+R443_1@B0790082@R0201@DS003857-R308-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R443_1@B0790082@R0201@DS003857-R308-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R443_1@B0790082@R0201@DS003857-R308-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R443_1@B0790082@R0201@DS003857-R308-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,E,False
+R443_1@B0790082@R0201@DS003857-R308-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,8,False
+R443_1@B0790082@R0201@DS003857-R308-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R443_1@B0790082@R0201@DS003857-R308-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R172_2@B0790082@R0201@DS003857-R308-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R172_2@B0790082@R0201@DS003857-R308-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,12,False
+R172_2@B0790082@R0201@DS003857-R308-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R172_2@B0790082@R0201@DS003857-R308-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R174_2@B0790082@R0201@DS003857-R308-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R174_2@B0790082@R0201@DS003857-R308-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,B,False
+R174_2@B0790082@R0201@DS003857-R308-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+R174_2@B0790082@R0201@DS003857-R308-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R174_2@B0790082@R0201@DS003857-R308-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R174_2@B0790082@R0201@DS003857-R308-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R174_2@B0790082@R0201@DS003857-R308-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,D,True
+R174_2@B0790082@R0201@DS003857-R308-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+R174_2@B0790082@R0201@DS003857-R308-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R174_2@B0790082@R0201@DS003857-R308-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R174_2@B0790082@R0201@DS003857-R308-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R174_2@B0790082@R0201@DS003857-R308-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,D,True
+R174_2@B0790082@R0201@DS003857-R308-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+R174_2@B0790082@R0201@DS003857-R308-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R174_2@B0790082@R0201@DS003857-R308-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R174_2@B0790082@R0201@DS003857-R308-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R174_2@B0790082@R0201@DS003857-R308-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,D,B,False
+R174_2@B0790082@R0201@DS003857-R308-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+R174_2@B0790082@R0201@DS003857-R308-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R174_2@B0790082@R0201@DS003857-R308-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,6,False
+C338_1@B0790180@C@DS013532-R402-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C338_1@B0790180@C@DS013532-R402-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,A,True
+C338_1@B0790180@C@DS013532-R402-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,8,False
+C338_1@B0790180@C@DS013532-R402-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C338_1@B0790180@C@DS013532-R402-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+C338_1@B0790180@C@DS013532-R402-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C338_1@B0790180@C@DS013532-R402-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,A,True
+C338_1@B0790180@C@DS013532-R402-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,8,False
+C338_1@B0790180@C@DS013532-R402-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C338_1@B0790180@C@DS013532-R402-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C2_2@11G232110411390@C@59AE00S0-IO0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C85_1@B1190140@C@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C85_1@B1190140@C@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C85_1@B1190140@C@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,6,False
+C85_1@B1190140@C@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C85_1@B1190140@C@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C85_1@B1190140@C@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C85_1@B1190140@C@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C85_1@B1190140@C@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,6,False
+C85_1@B1190140@C@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C85_1@B1190140@C@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R110_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R110_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R110_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,6,False
+R110_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R110_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R110_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R110_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R110_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,6,False
+R110_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R110_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,6,False
+R110_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R110_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R110_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,6,False
+R110_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R110_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R124_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R124_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R124_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+R124_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R124_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R124_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R124_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R124_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+R124_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R124_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+R124_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R124_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R124_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,8,False
+R124_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R124_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R132_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R132_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R132_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,16,False
+R132_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R132_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+R132_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R132_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R132_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+R132_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R132_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R132_2@B0840090@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R132_2@B0840090@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R132_2@B0840090@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+R132_2@B0840090@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R132_2@B0840090@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R49_1@B0410790@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R49_1@B0410790@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R49_1@B0410790@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+R49_1@B0410790@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R49_1@B0410790@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,3,False
+R49_1@B0410790@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R49_1@B0410790@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R49_1@B0410790@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+R49_1@B0410790@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R49_1@B0410790@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+R49_1@B0410790@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R49_1@B0410790@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R49_1@B0410790@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+R49_1@B0410790@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R49_1@B0410790@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,3,False
+R49_1@B0410790@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R49_1@B0410790@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R49_1@B0410790@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,3,False
+R49_1@B0410790@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R49_1@B0410790@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C99_1@B1190091@C@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C99_1@B1190091@C@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C99_1@B1190091@C@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C99_1@B1190091@C@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C99_1@B1190091@C@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R93_1@B0830412@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R93_1@B0830412@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R93_1@B0830412@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,7,True
+R93_1@B0830412@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R93_1@B0830412@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R93_1@B0830412@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R93_1@B0830412@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R93_1@B0830412@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,6,False
+R93_1@B0830412@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R93_1@B0830412@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R93_1@B0830412@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R93_1@B0830412@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R93_1@B0830412@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,5,False
+R93_1@B0830412@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R93_1@B0830412@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R93_1@B0830412@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R93_1@B0830412@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,D,False
+R93_1@B0830412@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,6,False
+R93_1@B0830412@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R93_1@B0830412@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+R105_2@B0830070@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R105_2@B0830070@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R105_2@B0830070@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+R105_2@B0830070@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R105_2@B0830070@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R105_2@B0830070@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R105_2@B0830070@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R105_2@B0830070@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,7,False
+R105_2@B0830070@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R105_2@B0830070@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R105_2@B0830070@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R105_2@B0830070@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R105_2@B0830070@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,8,False
+R105_2@B0830070@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R105_2@B0830070@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R105_2@B0830070@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+R105_2@B0830070@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R105_2@B0830070@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+R105_2@B0830070@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R105_2@B0830070@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C85_1@B1190140@C@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C85_1@B1190140@C@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C85_1@B1190140@C@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,6,False
+C85_1@B1190140@C@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C85_1@B1190140@C@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R53_1@B0830850@R@DS006210-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R53_1@B0830850@R@DS006210-R000-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,E,False
+R53_1@B0830850@R@DS006210-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+R53_1@B0830850@R@DS006210-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R53_1@B0830850@R@DS006210-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C709_1@B1110040@C@DS00274B-Z304-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C709_1@B1110040@C@DS00274B-Z304-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C709_1@B1110040@C@DS00274B-Z304-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,7,False
+C709_1@B1110040@C@DS00274B-Z304-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+C709_1@B1110040@C@DS00274B-Z304-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C709_1@B1110040@C@DS00274B-Z304-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C709_1@B1110040@C@DS00274B-Z304-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C709_1@B1110040@C@DS00274B-Z304-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,7,False
+C709_1@B1110040@C@DS00274B-Z304-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+C709_1@B1110040@C@DS00274B-Z304-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,5,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,3,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,4,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,4,False
+C96_1@2B32-14472000@C@DS015320-R003-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C96_1@2B32-14472000@C@DS015320-R003-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C151_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C151_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C151_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C151_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C140_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C140_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C140_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C140_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C140_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C140_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C140_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C140_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C140_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C140_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,40,True
+C140_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C140_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,4,True
+C140_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C140_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C151_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C151_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C151_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C151_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C151_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,3,True
+C151_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C151_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C319_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C319_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C319_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C319_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C319_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+C638_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C638_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C638_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C638_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C638_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C653_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C653_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C653_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C653_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C653_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+C653_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C653_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C653_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C653_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C653_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+R679_1@B0830300@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R679_1@B0830300@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R679_1@B0830300@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,5,False
+R679_1@B0830300@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R679_1@B0830300@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R679_1@B0830300@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R679_1@B0830300@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R679_1@B0830300@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,5,True
+R679_1@B0830300@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R679_1@B0830300@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+R679_1@B0830300@R@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R679_1@B0830300@R@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,C,B,False
+R679_1@B0830300@R@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,5,False
+R679_1@B0830300@R@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R679_1@B0830300@R@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C389_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C389_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C389_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C389_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C389_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C390_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C390_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+C390_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C390_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C390_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C390_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C390_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,2,True
+C390_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C390_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C409_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C409_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C409_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C409_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C409_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,24,False
+C409_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C409_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C409_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C409_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C409_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C409_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C409_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C409_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,2,False
+C409_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C409_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+C571_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,4,False
+C571_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C571_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,29,False
+C571_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C571_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,6,False
+C571_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C571_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,29,False
+C571_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,5,True
+C571_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C571_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,29,False
+C571_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C571_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,2,False
+C571_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C571_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,20,True
+C53_2@B1110210@C@DS01332Q-Z200-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C53_2@B1110210@C@DS01332Q-Z200-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,13,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C53_2@B1110210@C@DS01332Q-Z200-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,12,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C53_2@B1110210@C@DS01332Q-Z200-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+PC10_1@B1191580@C@DS015400-Z000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PC10_1@B1191580@C@DS015400-Z000-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+PC10_1@B1191580@C@DS015400-Z000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+PC10_1@B1191580@C@DS015400-Z000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PC10_1@B1191580@C@DS015400-Z000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,16,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,16,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,17,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,15,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+C326_1@B1110170@C@DS00900Q-Z401-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,2,False
+C219_2@B1110160@C@DS013091-R001,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C219_2@B1110160@C@DS013091-R001,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C219_2@B1110160@C@DS013091-R001,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,7,False
+C219_2@B1110160@C@DS013091-R001,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,B,True
+C219_2@B1110160@C@DS013091-R001,Pin Count,What is the pin count of the main component? Answer with a single number.,0,24,False
+EC15_1@B1300760@SOD@DS012334-Z204-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+EC15_1@B1300760@SOD@DS012334-Z204-B,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,E,B,False
+EC15_1@B1300760@SOD@DS012334-Z204-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,4,False
+EC15_1@B1300760@SOD@DS012334-Z204-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+EC15_1@B1300760@SOD@DS012334-Z204-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C273_1@B1190091@C@DS012350-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C273_1@B1190091@C@DS012350-R100-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C273_1@B1190091@C@DS012350-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C273_1@B1190091@C@DS012350-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,3,False
+C273_1@B1190091@C@DS012350-R100-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C273_1@B1190091@C@DS012350-R100-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C273_1@B1190091@C@DS012350-R100-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+EC47_1@E1190000@MLD@DS005865-Z110-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+EC47_1@E1190000@MLD@DS005865-Z110-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,5,False
+EC47_1@E1190000@MLD@DS005865-Z110-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+EC47_1@E1190000@MLD@DS005865-Z110-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,No,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,5,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,C,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C719_1@B1191200@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C719_1@B1191200@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C719_1@B1191200@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,5,False
+C719_1@B1191200@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C719_1@B1191200@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False
+C411_1@B1191200@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C411_1@B1191200@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C411_1@B1191200@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,2,False
+C411_1@B1191200@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,B,False
+C411_1@B1191200@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C411_1@B1191200@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C411_1@B1191200@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C411_1@B1191200@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,2,False
+C411_1@B1191200@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_1@B1191200@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C411_1@B1191200@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C411_1@B1191200@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C411_1@B1191200@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,2,False
+C411_1@B1191200@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C411_1@B1191200@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C719_1@B1191200@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C719_1@B1191200@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C719_1@B1191200@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,5,False
+C719_1@B1191200@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C719_1@B1191200@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,D,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,E,False
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+C153_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,4,False
+C153_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C153_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,4,False
+C138_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,5,False
+C138_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C138_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,8,False
+C138_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,6,False
+C138_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C138_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+C138_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,5,False
+C138_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C138_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,28,False
+C138_1@B1191190@C@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Capacitor (B) Molded Inductor (C) Resistor (D) R,A,B,False
+C138_1@B1191190@C@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,6,False
+C138_1@B1191190@C@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C138_1@B1191190@C@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,16,False

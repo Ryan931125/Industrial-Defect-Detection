@@ -1,0 +1,1186 @@
+Image ID,Category,Question,Ground Truth,Prediction,Correct
+J3_1@B6211140@IC@DS007151-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+J3_1@B6211140@IC@DS007151-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J3_1@B6211140@IC@DS007151-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+J3_1@B6211140@IC@DS007151-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J3_1@B6211140@IC@DS007151-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,100,False
+J3_1@B6211140@IC@DS007151-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J3_1@B6211140@IC@DS007151-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J3_1@B6211140@IC@DS007151-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,100,False
+J3_1@B6211140@IC@DS007151-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J3_1@B6211140@IC@DS007151-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,100,False
+J3_1@B6211140@IC@DS007151-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J3_1@B6211140@IC@DS007151-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J3_1@B6211140@IC@DS007151-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+J3_1@B6211140@IC@DS007151-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J3_1@B6211140@IC@DS007151-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,100,False
+J3_1@B6211140@IC@DS007151-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J3_1@B6211140@IC@DS007151-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J3_1@B6211140@IC@DS007151-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+J3_1@B6211140@IC@DS007151-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J3_1@B6211140@IC@DS007151-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,100,False
+J3_1@B6211140@IC@DS007151-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J3_1@B6211140@IC@DS007151-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J3_1@B6211140@IC@DS007151-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+J3_1@B6211140@IC@DS007151-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J3_1@B6211140@IC@DS007151-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+R409_1@B0410682@R@DS003031-R006-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R409_1@B0410682@R@DS003031-R006-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,F,True
+R409_1@B0410682@R@DS003031-R006-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+R409_1@B0410682@R@DS003031-R006-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R409_1@B0410682@R@DS003031-R006-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+U23_1@B2814390@QFN@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U23_1@B2814390@QFN@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,10,False
+U23_1@B2814390@QFN@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U23_1@B2814390@QFN@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,14,100,False
+U23_1@B2814390@QFN@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,10,False
+U23_1@B2814390@QFN@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U23_1@B2814390@QFN@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,14,100,False
+U23_1@B2814390@QFN@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,10,False
+U23_1@B2814390@QFN@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U23_1@B2814390@QFN@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,14,100,False
+U23_1@B2814390@QFN@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+U23_1@B2814390@QFN@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U23_1@B2814390@QFN@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,14,100,False
+U23_1@B2814390@QFN@DS012350-R100-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U23_1@B2814390@QFN@DS012350-R100-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,10,False
+U23_1@B2814390@QFN@DS012350-R100-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U23_1@B2814390@QFN@DS012350-R100-B,Pin Count,What is the pin count of the main component? Answer with a single number.,14,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U17_1@B280H710@IC@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U17_1@B280H710@IC@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U17_1@B280H710@IC@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,38,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U17_1@B280H710@IC@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U17_1@B280H710@IC@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U17_1@B280H710@IC@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,38,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U17_1@B280H710@IC@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U17_1@B280H710@IC@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U17_1@B280H710@IC@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,38,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U17_1@B280H710@IC@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U17_1@B280H710@IC@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U17_1@B280H710@IC@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,38,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U17_1@B280H710@IC@DS006594-Z202-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U17_1@B280H710@IC@DS006594-Z202-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U17_1@B280H710@IC@DS006594-Z202-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U17_1@B280H710@IC@DS006594-Z202-T,Pin Count,What is the pin count of the main component? Answer with a single number.,38,100,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,A,C,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,27,100,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,A,C,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,27,100,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,A,C,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,27,100,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,A,C,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,28,100,False
+U13_1@B280L180@BGA@DS00745D-Z501-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U13_1@B280L180@BGA@DS00745D-Z501-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,33,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,33,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,33,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,33,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PU12_1@B2818410@QFN@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU12_1@B2818410@QFN@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,33,100,False
+PR141_1@B0831780@R@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,E,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PR141_1@B0831780@R@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PR141_1@B0831780@R@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+PR141_1@B0831780@R@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,E,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PR141_1@B0831780@R@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PR141_1@B0831780@R@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+PR141_1@B0831780@R@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,E,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PR141_1@B0831780@R@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PR141_1@B0831780@R@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+PR141_1@B0831780@R@DS01320A-R102-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,C,False
+PR141_1@B0831780@R@DS01320A-R102-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+PR141_1@B0831780@R@DS01320A-R102-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PR141_1@B0831780@R@DS01320A-R102-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,19,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,16,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,18,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,19,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,18,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,19,100,False
+PU5_1@B2816690@QFN@DS001747-R600-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU5_1@B2816690@QFN@DS001747-R600-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+J1_2@B6214372@IC@DS006210-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+J1_2@B6214372@IC@DS006210-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J1_2@B6214372@IC@DS006210-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_2@B6214372@IC@DS006210-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+J1_2@B6214372@IC@DS006210-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J1_2@B6214372@IC@DS006210-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J1_2@B6214372@IC@DS006210-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_2@B6214372@IC@DS006210-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+J1_2@B6214372@IC@DS006210-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J1_2@B6214372@IC@DS006210-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J1_2@B6214372@IC@DS006210-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_2@B6214372@IC@DS006210-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+J1_2@B6214372@IC@DS006210-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J1_2@B6214372@IC@DS006210-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J1_2@B6214372@IC@DS006210-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_2@B6214372@IC@DS006210-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+J1_2@B6214372@IC@DS006210-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+J1_2@B6214372@IC@DS006210-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+J1_2@B6214372@IC@DS006210-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_2@B6214372@IC@DS006210-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+R421_1@B089000Y@R@DS000896-R202-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,C,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,10,False
+R421_1@B089000Y@R@DS000896-R202-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+R421_1@B089000Y@R@DS000896-R202-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+R421_1@B089000Y@R@DS000896-R202-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,C,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,100,False
+R421_1@B089000Y@R@DS000896-R202-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+R421_1@B089000Y@R@DS000896-R202-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+R421_1@B089000Y@R@DS000896-R202-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,C,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,10,False
+R421_1@B089000Y@R@DS000896-R202-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+R421_1@B089000Y@R@DS000896-R202-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+R421_1@B089000Y@R@DS000896-R202-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,F,C,False
+R421_1@B089000Y@R@DS000896-R202-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,10,False
+R421_1@B089000Y@R@DS000896-R202-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,B,A,False
+R421_1@B089000Y@R@DS000896-R202-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+U1701_1@E280A420@QFN@DS013793-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U1701_1@E280A420@QFN@DS013793-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,H,C,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,H,C,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,H,C,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,H,C,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,H,C,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SQ46_1@07003-00030800@SOT23@59ME08P0-MB0A01S-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,34,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,34,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,34,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,34,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,34,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,24,144,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,A,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,10,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,41,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,41,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,41,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,41,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU4_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,41,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,No,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,23,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,23,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,23,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,A,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,23,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,23,100,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,F,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,F,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,F,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,10,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,100,False
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OQ6_1@07G005607011@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,47,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,144,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,A,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,1,100,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,A,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,8,100,False
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+SWU6_1@06G114035010@QFN@59ME02W0-MB0A3BS-R000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,4,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,23,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,26,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,27,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,24,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D101_1@B218A170@MLD@DS016320-Z000-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D101_1@B218A170@MLD@DS016320-Z000-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,26,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,26,14,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,26,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,26,14,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B05S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,26,100,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U56_1@B280L450@QFN@DS016321-Z001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,15,100,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U56_1@B280L450@QFN@DS016321-Z001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,9,100,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,20,100,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U56_1@B280L450@QFN@DS016321-Z001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,9,100,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,21,100,False
+U56_1@B280L450@QFN@DS016321-Z001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U56_1@B280L450@QFN@DS016321-Z001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,9,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,15,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,12,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,E,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,E,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU4101_1@06095-02101800@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,32,100,False
+FB53_1@B4920170@C@DS016324-Z104-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,B,C,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,2,False
+FB53_1@B4920170@C@DS016324-Z104-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+FB53_1@B4920170@C@DS016324-Z104-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+FB53_1@B4920170@C@DS016324-Z104-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,B,C,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,2,False
+FB53_1@B4920170@C@DS016324-Z104-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+FB53_1@B4920170@C@DS016324-Z104-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+FB53_1@B4920170@C@DS016324-Z104-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,B,C,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,2,False
+FB53_1@B4920170@C@DS016324-Z104-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+FB53_1@B4920170@C@DS016324-Z104-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+FB53_1@B4920170@C@DS016324-Z104-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,B,C,False
+FB53_1@B4920170@C@DS016324-Z104-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,2,False
+FB53_1@B4920170@C@DS016324-Z104-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+FB53_1@B4920170@C@DS016324-Z104-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+C1324_1@B1110170@C@DS016324-Z102-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+C1324_1@B1110170@C@DS016324-Z102-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,B,C,False
+C1324_1@B1110170@C@DS016324-Z102-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,10,True
+C1324_1@B1110170@C@DS016324-Z102-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+C1324_1@B1110170@C@DS016324-Z102-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,100,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+D18_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D18_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,D,C,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+D69_1@B218A170@MLD@DS015643-Z101-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D69_1@B218A170@MLD@DS015643-Z101-B,Pin Count,What is the pin count of the main component? Answer with a single number.,0,10,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,48,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,48,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,48,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,48,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+AU1_1@06103-00650000@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,48,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+J1_1@B6218660@IC@DS01548M-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,14,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_1@B6218660@IC@DS01548M-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,262,12,False
+J1_1@B6218660@IC@DS01548M-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+J1_1@B6218660@IC@DS01548M-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,15,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_1@B6218660@IC@DS01548M-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,262,12,False
+J1_1@B6218660@IC@DS01548M-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+J1_1@B6218660@IC@DS01548M-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,14,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_1@B6218660@IC@DS01548M-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,262,12,False
+J1_1@B6218660@IC@DS01548M-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+J1_1@B6218660@IC@DS01548M-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,14,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_1@B6218660@IC@DS01548M-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,262,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+J1_1@B6218660@IC@DS01548M-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,15,100,False
+J1_1@B6218660@IC@DS01548M-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+J1_1@B6218660@IC@DS01548M-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,262,12,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,23,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,14,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,288,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU39_1@06G016185020@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,24,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,12,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,12,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,12,14,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,12,100,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU1901_1@06018-02130400@QFN@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,12,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,23,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,25,100,False
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+OU1_1@06116-00380300@IC@59SB0BE0-SB0B06S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,128,100,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,2,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Pin Count,What is the pin count of the main component? Answer with a single number.,2,10,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,10,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Pin Count,What is the pin count of the main component? Answer with a single number.,2,100,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Pin Count,What is the pin count of the main component? Answer with a single number.,2,10,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Pin Count,What is the pin count of the main component? Answer with a single number.,2,100,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+D43_1@B2180870@QFN@DS00A03F-Z204-T,Pin Count,What is the pin count of the main component? Answer with a single number.,2,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,1,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00865R-R301-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00865R-R301-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,100,False
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U10_1@06004-00620400@QFN@59SC0S00-SC0A02S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,3,100,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,5,100,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,10,100,True
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,5,100,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,9,100,False
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU2501_1@06095-02980100@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,5,100,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,2,10,False
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U3U15_1@07024-01800000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,100,False
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+QU40_1@06096-00750000@IC@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,16,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,16,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,12,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,14,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,E,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,15,100,False
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+PU3701_1@06095-02101900@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,100,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,18,100,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,18,100,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,11,100,False
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+CU4_1@06011-00900000@QFN@59SB0BE0-SB0B07S-R000-T,Pin Count,What is the pin count of the main component? Answer with a single number.,18,100,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,G,C,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,6,100,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R93_1@B0800060@R0201@DS01548R-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+R93_1@B0800060@R0201@DS01548R-R001-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,G,C,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,7,100,False
+R93_1@B0800060@R0201@DS01548R-R001-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+R93_1@B0800060@R0201@DS01548R-R001-T,Pin Count,What is the pin count of the main component? Answer with a single number.,0,100,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,100,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Pin Count,What is the pin count of the main component? Answer with a single number.,10,100,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,100,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Pin Count,What is the pin count of the main component? Answer with a single number.,10,100,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,100,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Pin Count,What is the pin count of the main component? Answer with a single number.,10,100,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,100,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Pin Count,What is the pin count of the main component? Answer with a single number.,10,100,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,100,False
+U57_1@B280D990@IC@DS00A03G-Z205-B,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+U57_1@B280D990@IC@DS00A03G-Z205-B,Pin Count,What is the pin count of the main component? Answer with a single number.,10,100,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,8,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,8,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,8,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,8,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,8,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,4,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,G,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,No,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,C,C,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,3,10,False
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+RY3_1@B4090020@IC@DS01187Q-Z701-T,Pin Count,What is the pin count of the main component? Answer with a single number.,7,12,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,Yes,Yes,True
+Q3_1@J2750010@QFN@DS00864R-R303-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00864R-R303-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Defect Detection,Is there a defect on the main component? Answer Yes or No.,No,Yes,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Component Type,What is the package type of the main component? (A) Ball Grid Array (B) Capacitor (C) Integrated Cir,E,C,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Component Count,How many electronic components does the PCB contain? Answer with a single number.,5,10,False
+Q3_1@J2750010@QFN@DS00864R-R303-T,Mount Side,On which side of the PCB are the components mounted? (A) Top (B) Bottom. Answer with A or B only.,A,A,True
+Q3_1@J2750010@QFN@DS00864R-R303-T,Pin Count,What is the pin count of the main component? Answer with a single number.,6,10,False

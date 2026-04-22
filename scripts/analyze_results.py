@@ -1,4 +1,5 @@
 import argparse
+import re
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -9,6 +10,10 @@ from matplotlib.container import BarContainer
 
 def model_slug(model_name):
     return model_name.lower().replace(" ", "_").replace("-", "_").replace(".", "")
+
+
+def category_slug(category_name):
+    return category_name.lower().replace(" ", "_").replace("/", "_")
 
 
 def normalize_binary_label(value):
@@ -39,6 +44,75 @@ def normalize_binary_label(value):
     return None
 
 
+def normalize_mount_side(value):
+    if pd.isna(value):
+        return None
+
+    text = str(value).strip().lower()
+    if not text:
+        return None
+
+    if text in {"a", "(a)", "a)", "top"}:
+        return "Top"
+    if text in {"b", "(b)", "b)", "bottom"}:
+        return "Bottom"
+
+    if "top" in text:
+        return "Top"
+    if "bottom" in text:
+        return "Bottom"
+
+    return None
+
+
+def extract_number(value):
+    if pd.isna(value):
+        return None
+
+    match = re.search(r"-?\d+", str(value))
+    if not match:
+        return None
+    return match.group(0)
+
+
+def extract_option_letter(value):
+    if pd.isna(value):
+        return None
+
+    text = str(value).upper().strip()
+    if not text:
+        return None
+
+    if len(text) == 1 and text.isalpha():
+        return text
+
+    match = re.search(r"\(([A-Z])\)", text)
+    if match:
+        return match.group(1)
+
+    match = re.search(r"\b([A-Z])\)", text)
+    if match:
+        return match.group(1)
+
+    match = re.search(r"\b([A-Z])\b", text)
+    if match:
+        return match.group(1)
+
+    return None
+
+
+def normalize_for_category(category_name, value):
+    if category_name == "Defect Detection":
+        return normalize_binary_label(value)
+    if category_name == "Mount Side":
+        return normalize_mount_side(value)
+    if category_name in {"Component Count", "Pin Count"}:
+        return extract_number(value)
+    if category_name == "Component Type":
+        return extract_option_letter(value)
+    return None
+
+
 def save_confusion_matrix_plot(cm, output_path, title):
     total = cm.to_numpy().sum()
     if total == 0:
@@ -62,11 +136,32 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--source_root", type=str, required=True, help="Folder containing 03/05/07/09 split outputs")
     parser.add_argument("--output_dir", type=str, default="assets/results")
+    parser.add_argument("--focus_model", type=str, default="Qwen3-VL-8B")
+    parser.add_argument("--focus_category", type=str, default="Defect Detection")
+    parser.add_argument("--focus_split", type=str, default="all", help="03/05/07/09 or all")
     args = parser.parse_args()
 
     source_root = Path(args.source_root)
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    summary_dir = output_dir / "summaries"
+    chart_dir = output_dir / "charts"
+    confusion_root_dir = output_dir / "confusion_matrices"
+    defect_by_split_dir = confusion_root_dir / "defect_detection" / "by_split"
+    defect_all_splits_dir = confusion_root_dir / "defect_detection" / "all_splits"
+    focus_confusion_dir = confusion_root_dir / "focus"
+    diagnostics_dir = output_dir / "diagnostics"
+
+    for path in [
+        summary_dir,
+        chart_dir,
+        defect_by_split_dir,
+        defect_all_splits_dir,
+        focus_confusion_dir,
+        diagnostics_dir,
+    ]:
+        path.mkdir(parents=True, exist_ok=True)
 
     splits = ["03", "05", "07", "09"]
     model_files = {
@@ -79,6 +174,7 @@ def main():
     cat_rows = []
     labels = ["No", "Yes"]
     defect_rows_by_model = {name: [] for name in model_files}
+    focus_rows = []
 
     for split in splits:
         for model_name, filename in model_files.items():
@@ -108,6 +204,13 @@ def main():
                 )
 
             if {"Category", "Ground Truth", "Prediction"}.issubset(df.columns):
+                if args.focus_category in set(df["Category"].dropna().astype(str)):
+                    focus_df = df[df["Category"] == args.focus_category].copy()
+                    if not focus_df.empty:
+                        focus_df["split"] = split
+                        focus_df["model"] = model_name
+                        focus_rows.append(focus_df)
+
                 defect_df = df[df["Category"] == "Defect Detection"].copy()
                 if not defect_df.empty:
                     defect_df["gt_label"] = defect_df["Ground Truth"].apply(normalize_binary_label)
@@ -120,10 +223,10 @@ def main():
 
                         split_slug = split
                         model_name_slug = model_slug(model_name)
-                        cm.to_csv(output_dir / f"confusion_matrix_defect_{split_slug}_{model_name_slug}.csv")
+                        cm.to_csv(defect_by_split_dir / f"confusion_matrix_defect_{split_slug}_{model_name_slug}.csv")
                         save_confusion_matrix_plot(
                             cm,
-                            output_dir / f"confusion_matrix_defect_{split_slug}_{model_name_slug}.png",
+                            defect_by_split_dir / f"confusion_matrix_defect_{split_slug}_{model_name_slug}.png",
                             f"Defect Detection Confusion Matrix\nSplit {split} - {model_name}",
                         )
                         defect_rows_by_model[model_name].append(defect_df[["gt_label", "pred_label"]])
@@ -155,9 +258,9 @@ def main():
         else pd.DataFrame(columns=["model", "category", "acc"])
     )
 
-    summary_by_split.to_csv(output_dir / "summary_by_split.csv", index=False)
-    summary_overall.to_csv(output_dir / "summary_overall.csv", index=False)
-    summary_by_category.to_csv(output_dir / "summary_by_category_all_splits.csv", index=False)
+    summary_by_split.to_csv(summary_dir / "summary_by_split.csv", index=False)
+    summary_overall.to_csv(summary_dir / "summary_overall.csv", index=False)
+    summary_by_category.to_csv(summary_dir / "summary_by_category_all_splits.csv", index=False)
 
     if not summary_overall.empty:
         sns.set_theme(style="whitegrid")
@@ -171,7 +274,7 @@ def main():
             if isinstance(container, BarContainer):
                 ax.bar_label(container, fmt="%.3f", padding=3)
         plt.tight_layout()
-        plt.savefig(output_dir / "overall_model_comparison.png", dpi=300)
+        plt.savefig(chart_dir / "overall_model_comparison.png", dpi=300)
         plt.close()
 
     if not summary_by_split.empty:
@@ -183,7 +286,7 @@ def main():
         ax.set_xlabel("Model")
         ax.set_ylabel("Split")
         plt.tight_layout()
-        plt.savefig(output_dir / "heatmap_by_split.png", dpi=300)
+        plt.savefig(chart_dir / "heatmap_by_split.png", dpi=300)
         plt.close()
 
     if not summary_by_category.empty:
@@ -194,7 +297,7 @@ def main():
         ax.set_xlabel("Model")
         ax.set_ylabel("Category")
         plt.tight_layout()
-        plt.savefig(output_dir / "heatmap_by_category.png", dpi=300)
+        plt.savefig(chart_dir / "heatmap_by_category.png", dpi=300)
         plt.close()
 
     for model_name, parts in defect_rows_by_model.items():
@@ -206,12 +309,48 @@ def main():
         cm = cm.reindex(index=labels, columns=labels, fill_value=0)
 
         model_name_slug = model_slug(model_name)
-        cm.to_csv(output_dir / f"confusion_matrix_defect_all_{model_name_slug}.csv")
+        cm.to_csv(defect_all_splits_dir / f"confusion_matrix_defect_all_{model_name_slug}.csv")
         save_confusion_matrix_plot(
             cm,
-            output_dir / f"confusion_matrix_defect_all_{model_name_slug}.png",
+            defect_all_splits_dir / f"confusion_matrix_defect_all_{model_name_slug}.png",
             f"Defect Detection Confusion Matrix\nAll Splits - {model_name}",
         )
+
+    if focus_rows:
+        focus_df = pd.concat(focus_rows, ignore_index=True)
+        focus_df = focus_df[focus_df["model"] == args.focus_model].copy()
+        if args.focus_split != "all":
+            focus_df = focus_df[focus_df["split"] == args.focus_split].copy()
+
+        if not focus_df.empty:
+            focus_df["gt_norm"] = focus_df["Ground Truth"].apply(lambda value: normalize_for_category(args.focus_category, value))
+            focus_df["pred_norm"] = focus_df["Prediction"].apply(lambda value: normalize_for_category(args.focus_category, value))
+            focus_df = focus_df.dropna(subset=["gt_norm", "pred_norm"])
+
+            if not focus_df.empty:
+                cm = pd.crosstab(focus_df["gt_norm"], focus_df["pred_norm"])
+                label_order = sorted(set(cm.index).union(set(cm.columns)))
+                cm = cm.reindex(index=label_order, columns=label_order, fill_value=0)
+
+                focus_model_slug = model_slug(args.focus_model)
+                focus_category_slug = category_slug(args.focus_category)
+                focus_split_slug = args.focus_split
+
+                cm_csv_path = focus_confusion_dir / f"confusion_matrix_focus_{focus_split_slug}_{focus_model_slug}_{focus_category_slug}.csv"
+                cm_png_path = focus_confusion_dir / f"confusion_matrix_focus_{focus_split_slug}_{focus_model_slug}_{focus_category_slug}.png"
+                errors_csv_path = diagnostics_dir / f"focus_errors_{focus_split_slug}_{focus_model_slug}_{focus_category_slug}.csv"
+
+                cm.to_csv(cm_csv_path)
+                save_confusion_matrix_plot(
+                    cm,
+                    cm_png_path,
+                    f"Focus Confusion Matrix\n{args.focus_model} - {args.focus_category} - Split {args.focus_split}",
+                )
+
+                error_df = focus_df[focus_df["gt_norm"] != focus_df["pred_norm"]][
+                    ["Image ID", "split", "model", "Category", "Ground Truth", "Prediction", "gt_norm", "pred_norm"]
+                ]
+                error_df.to_csv(errors_csv_path, index=False)
 
 
 if __name__ == "__main__":

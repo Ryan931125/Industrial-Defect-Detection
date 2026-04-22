@@ -1,6 +1,9 @@
 import argparse
 
-from scripts.eval_common import run_eval
+try:
+    from scripts.eval_common import run_eval
+except ImportError:
+    from eval_common import run_eval
 
 
 def main():
