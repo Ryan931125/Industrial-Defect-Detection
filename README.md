@@ -22,7 +22,7 @@ Open-source VLM benchmark for PCB automatic optical inspection reasoning across 
 | LLaVA-1.5   |           32.22% |             31,442 |
 | LLaVA-1.6   |           24.36% |             31,442 |
 
-![Combined model comparison](assets/results/charts/overall_model_comparison.png)
+![Combined model comparison](assets/results/charts/heatmap_by_category.png)
 
 ## Example Focused Confusion Matrix
 
@@ -30,7 +30,7 @@ Single question + single model example:
 
 - Model: Qwen3-VL-8B
 - Question: Defect Detection
-- Split: all
+- On all splits
 
 ![Focused confusion matrix (Qwen3-VL-8B, Defect Detection)](assets/results/confusion_matrices/focus/confusion_matrix_focus_all_qwen3_vl_8b_defect_detection.png)
 
@@ -38,15 +38,11 @@ Single question + single model example:
 
 ### Summary of Results
 
-- Overall benchmark ranking: Qwen3-VL-8B (38.26%) > LLaVA-1.5 (32.22%) > LLaVA-1.6 (24.36%).
-- Qwen3-VL-8B leads every split (03/05/07/09), with strongest performance on split 05 (44.89%).
-- By task type, the easiest task for all models is Mount Side (~76% to 81%), while Component Count and fine-grained Component Type remain low.
+- **Overall ranking**: Qwen3-VL-8B (38.26%) > LLaVA-1.5 (32.22%) > LLaVA-1.6 (24.36%). Qwen leads every split (03/05/07/09), peaking at 44.89% on split 05, but no model is close to production-grade accuracy.
 
-### What The Full Experiment Shows
+- **Task difficulty is highly uneven, and low scores are driven by answer bias rather than true reasoning.** Mount Side is easy for every model (~76–81%), while Component Count stays at 6–16% across the board. The sub-10% LLaVA scores on Defect Detection (LLaVA-1.5: 9.36%, LLaVA-1.6: 5.59%) are explained by the confusion matrices: LLaVA-1.6 predicts "Yes" on 100% of defect questions (6493/6493 negatives misclassified) and LLaVA-1.5 does so on 97.2% — the models are not inspecting the board, they are defaulting to a single label, so accuracy collapses to the minority-class rate. Qwen's 7.83% Pin Count shows the same pattern in the opposite direction: fine-grained counting is outside the model's calibrated output distribution.
 
-- The benchmark separates coarse spatial reasoning from fine semantic reasoning: models can often infer mount side, but struggle to reliably identify exact component semantics and counting details.
-- Defect Detection is the most discriminative task between models: Qwen3-VL-8B reaches 58.11% while LLaVA-1.5 and LLaVA-1.6 are 9.36% and 5.59%, indicating a major architecture/representation gap for anomaly-sensitive decisions.
-- The focused Qwen3-VL-8B confusion matrix (all splits) shows sensitivity to class imbalance: 574/989 correct (58.0%), 39.8% false-positive rate on normal samples (372/934), and 78.2% miss rate on defect samples (43/55). This means the model improves over LLaVA baselines but is not yet reliable enough for standalone production AOI gating.
+- **Defect Detection is the only task that meaningfully separates architectures, but Qwen is still unreliable on the decision that matters.** Qwen reaches 58.11% vs. ~5–9% for both LLaVAs — a real representational gap for anomaly sensitivity. However, its focused confusion matrix (all splits, 574/989 correct) reveals a 39.8% false-positive rate on normal samples (372/934) and, more critically, a 78.2% miss rate on actual defects (43/55 missed). The aggregate number looks moderate only because normals dominate the test set; on the defect class itself the model fails more often than it succeeds, so it cannot be used as a standalone AOI gate.
 
 ## Additional Confusion Matrices
 
